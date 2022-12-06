@@ -7,6 +7,9 @@ entries:
 
   - title: Posts
     url: archive.html
+    
+  - title: Inspiration
+    url: inspiration
   
   - title: Playlists
     url: playlists
