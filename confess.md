@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Confess
+title: 채팅방
 ---
 
-get it off your chest
+속마음을 털어 놓으세요
 
 <!-- Channel Plugin Scripts -->
 <script>
