@@ -1,5 +1,5 @@
 title: LEE SEJUN # name of the site
-author: LEE SEJUN # name of site's author
+author: 이세준 # name of site's author
 email: ssaezoon@gmail.com # email of site's author
 url: https://saezoon.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
