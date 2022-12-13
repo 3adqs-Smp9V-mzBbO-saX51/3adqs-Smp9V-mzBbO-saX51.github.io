@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Playlists
+title: 플레이리스트
 ---
 
 [Spotify](https://open.spotify.com/playlist/0qtS3peYAq36gE0JQ7SBoT?si=c89ffe3cb23848ca)
