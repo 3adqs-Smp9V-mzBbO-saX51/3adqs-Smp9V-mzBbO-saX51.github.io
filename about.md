@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 정보
 ---
 
 [@saezoon](https://instagram.com/saezoon/)
