@@ -2,13 +2,13 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 제 소개를 하겠습니다
+  - title: 안녕하세요
     url: about
 
-  - title: 글을 모아놨습니다
+  - title: 포스트
     url: archive.html
   
-  - title: 저의 플레이리스트입니다
+  - title: 플레이리스트
     url: playlists
 
   - title: 채팅방
