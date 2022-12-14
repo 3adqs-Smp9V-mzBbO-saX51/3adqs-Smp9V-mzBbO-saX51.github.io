@@ -3,7 +3,7 @@ layout: page
 title: 채팅방
 ---
 
-속마음을 털어 놓으세요
+아무 얘기나 하셔도 좋아요
 
 <!-- Channel Plugin Scripts -->
 <script>
