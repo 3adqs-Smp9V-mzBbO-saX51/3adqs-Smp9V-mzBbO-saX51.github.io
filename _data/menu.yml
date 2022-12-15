@@ -6,7 +6,7 @@ entries:
     url: about
 
   - title: 포스트
-    url: archive
+    url: archive.html
   
   - title: 플레이리스트
     url: playlists
