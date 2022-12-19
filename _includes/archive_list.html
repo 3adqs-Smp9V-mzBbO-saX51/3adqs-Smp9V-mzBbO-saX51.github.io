@@ -1,0 +1,21 @@
+{%-if include.category-%}
+  {%-assign posts = site.categories[include.category]-%}  
+{%-else-%}
+  {%-assign posts = site.posts-%}
+{%-endif-%}
+
+{%-if include.limit and posts.size > include.limit-%}
+  {%-assign limit_exceeded = true-%}
+{%-else-%}
+  {%-assign limit_exceeded = false-%}
+{%-endif-%}
+
+{%- if posts.size > 0 -%}
+  {%- for post in site.categories.archive limit: include.limit -%}
+    <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+    <ul></ul>
+  {%- endfor -%}
+  {%- if include.show_more and limit_exceeded -%}
+    <a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a>
+  {%- endif -%}
+{%- endif -%}

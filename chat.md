@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 채팅방
+title: Chat
 ---
 
-아무 얘기나 하셔도 좋아요
+Say whatever you want
 
 <!-- Channel Plugin Scripts -->
 <script>
