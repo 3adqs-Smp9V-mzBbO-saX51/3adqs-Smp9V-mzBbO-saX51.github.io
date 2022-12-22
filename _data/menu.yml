@@ -4,9 +4,6 @@
 entries:
   - title: Hello
     url: about
-
-  - title: Posts
-    url: posts
   
   - title: Archive
     url: archive
