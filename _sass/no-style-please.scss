@@ -18,7 +18,7 @@
     text-align: left;
     color: rgb(6, 4, 4);
     font-family: Pretendard-Regular;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.6;
     margin: 0;
     min-height: 100%;
@@ -31,9 +31,9 @@
   *:target { background: yellow; }
   
   .w {
-    max-width: 640px;
-    margin: 0 auto;
-    padding: 4rem 2rem;
+    max-width: 600px;
+    margin: auto;
+    padding: 6rem;
   }
   
   hr {
