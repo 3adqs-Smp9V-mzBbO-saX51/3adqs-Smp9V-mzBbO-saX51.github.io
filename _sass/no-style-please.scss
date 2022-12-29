@@ -65,8 +65,11 @@
   }
   
   blockquote {
+    align-content: center;
+    text-align: center;
     font-style: italic;
-    border: thin solid black;
+    border: thin solid rgb(237, 237, 237);
+    background-color: white;
     padding: 1rem;
   
     p { margin: 0; }
